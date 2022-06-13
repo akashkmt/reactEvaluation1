@@ -42,7 +42,7 @@ export default function ProductListing({
         <button onClick={() => handlePage(-1)} disabled={page === 1}>
           previous
         </button>
-        <button onClick={() => handlePage(1)} disabled={page === lastPage}>
+        <button onClick={() => handlePage(1)} disabled={page >= lastPage}>
           next
         </button>
       </div>

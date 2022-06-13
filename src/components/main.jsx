@@ -57,7 +57,7 @@ export default function Main() {
   }
 
   const handleFilter = () => {
-    getProductsData(`http://localhost:3001/allData?gender=male&_page=${page}&_limit=5`)
+    getProductsData(`http://localhost:3001/allData?gender=male`)
   }
 
   const handlePage = (value) => {
