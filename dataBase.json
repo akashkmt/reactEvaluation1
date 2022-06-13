@@ -87,6 +87,38 @@
       "category": "Shirt",
       "image": "https://picsum.photos/200",
       "id": 12
+    },
+    {
+      "title": "Shirt",
+      "gender": "male",
+      "price": "1234",
+      "category": "Shirt",
+      "image": "https://picsum.photos/200",
+      "id": 13
+    },
+    {
+      "title": "levis",
+      "gender": "male",
+      "price": "457",
+      "category": "Shirt",
+      "image": "https://picsum.photos/200",
+      "id": 14
+    },
+    {
+      "title": "1111",
+      "gender": "male",
+      "price": "124",
+      "category": "1223",
+      "image": "https://picsum.photos/200",
+      "id": 15
+    },
+    {
+      "title": "1235",
+      "gender": "female",
+      "price": "3457",
+      "category": "3456",
+      "image": "https://picsum.photos/200",
+      "id": 16
     }
   ]
 }
